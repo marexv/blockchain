@@ -1,6 +1,6 @@
 # Simple Blockchain implementation
 
-CODE taken from Medium tutorial [Learn Blockchain by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://github.com/dvf) I wanted to write it down line by line, hence I didn't fork his project from github.
+Code taken from Medium tutorial [Learn Blockchain by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) by [Daniel van Flymen](https://github.com/dvf) I wanted to write it down line by line hence I didn't fork his project from github.
 
 # How to run:
 
@@ -13,4 +13,4 @@ CODE taken from Medium tutorial [Learn Blockchain by building one](https://hacke
     - run in several terminals with different ports to simulate network (e.g. -p 5001, -p 5002, etc...)
 7. Install [postman](https://www.getpostman.com/)
 8. Open postman and click on import in top left corner, drag'n'drop postman collection
-9. Start experimenitg...
+9. Start experimenting...
